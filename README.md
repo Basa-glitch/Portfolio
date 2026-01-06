@@ -32,4 +32,47 @@ September 2021 - September 2025
 This project aims to develop AI based teledermatology which is equipped with a disease identification intelligent system. 
 The role I was given for this is to specifically explore Edge AI potential for skin disease identification which is intended to be deployed on low resource device.
 
+![Affordable AI Powered Dermatology Technology](Dermatoscope.png)
+
+
+### Automatic embedded system for heart disease identification based on phonocardiogram
+[Publication](https://ieeexplore.ieee.org/document/11253966)
+
+A portable and low cost device that can be used by both professional and non-professionals to detect for a person’s heart condition as early as possible. 
+The device uses a stethoscope with a microphone embedded into it to receive data of the patient’s heartbeat.
+The data taken by the stethoscope is used for the machine learning model to classify the patient’s heart in three different categories: normal, murmur or abnormal.
+These results are displayed onto a LCD.
+
+![Automatic embedded system for heart disease identification based on phonocardiogram](HeartDetectionSystem.png)
+
+
+### Fish Counter
+
+An automated device that can count accurately the number of fishes and when the machine reaches a specific quota, a barrier lowers down to seal entry. 
+The aim of this project is to prevent over fishing, especially in Indonesia which has one of the largest fishing grounds in the world.
+A machine learning model is used track the position of the fishes and display a line in the webcam to start counting the fishes that had passed through the line.
+An Arduino is used to control the rotations of the motor and block the path to stop fishes from entering the area
+
+![Fish Counter](FrontView.png)
+
+
+### Two Wheel Security Bot
+
+A roaming security robot with two coaxial wheels mounted on either side of an intermediate body, with a centre of mass above the wheel axles, and therefore, must actively stabilize themselves to prevent toppling. 
+This robot will provide support to the current limited security system, while CCTV has blind spots and security officer might not be able to patrol 24/7.
+This robot will increase the effectiveness of security by patrolling large complex of warehouse or factory lanes.  
+
+![Two Wheel Security Bot](Two-Wheel-Security-Bot.png)
+
+
+### TrackPoint
+
+TrackPoint is an asset tracking & quality control system that tracks the asset ID, location, and condition.
+It’s achieved by using a camera to scan for a Barcode, QR Code and the package itself.
+The codes contain information on the storage facility (location) and ID, while using Machine Learning to predict the condition of the package.
+The mobile app is used to track the location of the box and monitor its conditions and location.
+
+![TrackPoint](TrackPoint.png)
+
+
 
