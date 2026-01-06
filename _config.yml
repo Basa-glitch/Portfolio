@@ -1,16 +1,16 @@
 title: Bryan Stanley Effendy
-logo: 472x709px f.jpg
-#description: Bookmark this to keep an eye on my project updates!
-theme: jekyll-theme-architect
+description: Machine Learning Engineer
+theme: jekyll-theme-minimal
 
+# Add this section below
 params:
-  email: "bryaneffendy317@gmail.com"
+  github_username: Basa-glitch
+  email: bryaneffendy317@gmail.com
   phone: "0813-1809-6578"
-  
-  social:
-    - name: github
-      url: "https://github.com/Basa-glitch"
-    - name: email
-      url: "bryaneffendy317@gmail.com"
-    - name: phone
-      url: "tel:0813-1809-6578"
+
+# Optional: To make them appear as links in your bio/header
+social:
+  - title: github
+    url: https://github.com/Basa-glitch
+  - title: email
+    url: bryaneffendy317@gmail.com
