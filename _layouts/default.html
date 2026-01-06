@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     </head>
   <body>
     <div class="wrapper">
@@ -23,18 +24,26 @@
           <p style="font-size: 0.9em; line-height: 1.6; color: #444;">{{ site.about_me }}</p>
 
           <p style="font-size: 0.9em; margin-top: 20px;">
+            <i class="fab fa-github" style="width: 20px; color: #333;"></i>
+            <strong>GitHub:</strong><br>
+            <a href="https://github.com/Basa-glitch" target="_blank">github.com/Basa-glitch</a>
+          </p>
+
+          <p style="font-size: 0.9em; margin-top: 15px;">
+            <i class="fas fa-envelope" style="width: 20px; color: #333;"></i>
             <strong>Email:</strong><br>
             <a href="mailto:{{ site.email }}" style="word-break: break-all;">{{ site.email }}</a>
           </p>
 
           <p style="font-size: 0.9em; margin-top: 15px;">
+            <i class="fas fa-phone" style="width: 20px; color: #333;"></i>
             <strong>Phone:</strong><br>
             {{ site.phone }}
           </p>
         </div>
 
         {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub</a></p>
+          <p class="view" style="margin-top: 30px;"><a href="{{ site.github.repository_url }}">View the Project on GitHub</a></p>
         {% endif %}
 
         <footer style="position: relative; margin-top: 50px; bottom: 0;">
