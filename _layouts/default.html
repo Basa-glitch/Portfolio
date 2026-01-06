@@ -18,22 +18,25 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <div style="clear: both; margin-top: 30px;">
+        <div class="sidebar-custom" style="margin-bottom: 40px; clear: both;">
           <hr>
-          <h3 style="margin-top: 20px;">About Me</h3>
-          <p style="font-size: 0.9em; line-height: 1.5;">{{ site.about_me }}</p>
+          <h3 style="margin-top: 20px; font-size: 1.1em;">About Me</h3>
+          <p style="font-size: 0.85em; line-height: 1.5; color: #666;">
+            {{ site.about_me }}
+          </p>
           
-          <p style="font-size: 0.9em; margin-bottom: 10px;">
-            <strong>Email:</strong> <br>
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          <p style="font-size: 0.85em; margin-bottom: 5px;">
+            <strong>Email:</strong><br>
+            <a href="mailto:{{ site.email }}" style="word-wrap: break-word;">{{ site.email }}</a>
           </p>
   
-          <p style="font-size: 0.9em; margin-bottom: 20px;">
-            <strong>Phone:</strong> <br>
-            {{ site.phone }}
+          <p style="font-size: 0.85em; margin-bottom: 20px;">
+            <strong>Phone:</strong><br>
+            <span style="color: #666;">{{ site.phone }}</span>
           </p>
           <hr>
         </div>
+
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
