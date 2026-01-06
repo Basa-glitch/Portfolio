@@ -3,6 +3,12 @@ description: Machine Learning Engineer
 logo: NewIm.jpg
 theme: jekyll-theme-minimal
 
+# This text will now appear in your sidebar!
+about_me: >
+  An ambitious, tenacious and hardworking engineer specialized in machine learning related tasks, such as computer vision and deep learning, with 2+ years of experience.
+  Adept at team collaboration to deliver innovating and complex projects that can benefit society.
+  Proficient in Python, TensorFlow, Pytorch and Keras.
+  
 # Add this section below
 params:
   github_username: Basa-glitch
