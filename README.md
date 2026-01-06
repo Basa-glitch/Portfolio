@@ -1,10 +1,10 @@
 # Machine Learning Engineer
 
 ### Education
-Bachelor of Science
-Binus ASO School of Engineering 
-GPA: 3.83/4.00
-September 2021 - September 2025
+- Bachelor of Science
+- Binus ASO School of Engineering 
+- GPA: 3.83/4.00
+- September 2021 - September 2025
 
 ## Work Experience
 **Machine Learning Teaching Assistant @ Binus ASO School of Engineering (_Feb 2025- June 2025_)**
