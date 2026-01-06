@@ -13,10 +13,10 @@
 - Documented attendance and completed assignments to maintain full class and student records.
 - Checked assignments and provided grades according to university standards.
 
-**Junior Researcher @ Binus ASO School of Engineering (_Sep 2024 - Feb 2025_)**
+**Junior Researcher @ Binus ASO School of Engineering (_Sep 2024 - June 2025_)**
 - Conducted extensive literature reviews, summarizing key findings to inform future studies.
 - Created a project about an embedded system for heart disease identification based on phonocardiogram signals.
-- Worked as a machine learning engineer to train models to predict varying heart diseases.
+- Worked on two reseach projects within the healthcare field: Heart Disease and Dermatology
 - Composed a publication to the 2025 9th International Conference on Electrical, Electronics and Information Engineering (ICEEIE) - Electronics Instrumentation and Control.
 - Awarded a certificate on 3rd September 2025 for the publication.
 
