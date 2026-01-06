@@ -18,35 +18,33 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <div class="sidebar-custom" style="margin-bottom: 40px; clear: both;">
-          <hr>
-          <h3 style="margin-top: 20px; font-size: 1.1em;">About Me</h3>
-          <p style="font-size: 0.85em; line-height: 1.5; color: #666;">
-            {{ site.about_me }}
-          </p>
-          
-          <p style="font-size: 0.85em; margin-bottom: 5px;">
+        <div style="margin-top: 30px; border-top: 1px solid #e5e5e5; padding-top: 20px;">
+          <h3 style="margin-bottom: 10px;">About Me</h3>
+          <p style="font-size: 0.9em; line-height: 1.6; color: #444;">{{ site.about_me }}</p>
+
+          <p style="font-size: 0.9em; margin-top: 20px;">
             <strong>Email:</strong><br>
-            <a href="mailto:{{ site.email }}" style="word-wrap: break-word;">{{ site.email }}</a>
+            <a href="mailto:{{ site.email }}" style="word-break: break-all;">{{ site.email }}</a>
           </p>
-  
-          <p style="font-size: 0.85em; margin-bottom: 20px;">
+
+          <p style="font-size: 0.9em; margin-top: 15px;">
             <strong>Phone:</strong><br>
-            <span style="color: #666;">{{ site.phone }}</span>
+            {{ site.phone }}
           </p>
-          <hr>
         </div>
 
         {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub</a></p>
         {% endif %}
+
+        <footer style="position: relative; margin-top: 50px; bottom: 0;">
+            <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        </footer>
       </header>
+      
       <section>
         {{ content }}
       </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
