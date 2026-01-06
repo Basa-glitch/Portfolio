@@ -14,39 +14,39 @@
         <h1><a href="{{ "/" | relative_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" style="margin-bottom: 5px;" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p style="margin-bottom: 10px; font-size: 0.9em;">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <div style="margin-top: 30px; border-top: 1px solid #e5e5e5; padding-top: 20px;">
-          <h3 style="margin-bottom: 10px;">About Me</h3>
-          <p style="font-size: 0.9em; line-height: 1.6; color: #444;">{{ site.about_me }}</p>
+        <div style="margin-top: 10px; border-top: 1px solid #e5e5e5; padding-top: 10px;">
+          <h3 style="margin-bottom: 5px; font-size: 1.1em;">About Me</h3>
+          <p style="font-size: 0.85em; line-height: 1.4; color: #444; margin-bottom: 15px;">{{ site.about_me }}</p>
 
-          <p style="font-size: 0.9em; margin-top: 20px;">
-            <i class="fab fa-github" style="width: 20px; color: #333;"></i>
+          <p style="font-size: 0.85em; margin-top: 10px; margin-bottom: 8px;">
+            <i class="fab fa-github" style="width: 18px; color: #333;"></i>
             <strong>GitHub:</strong><br>
             <a href="https://github.com/Basa-glitch" target="_blank">github.com/Basa-glitch</a>
           </p>
 
-          <p style="font-size: 0.9em; margin-top: 15px;">
-            <i class="fas fa-envelope" style="width: 20px; color: #333;"></i>
+          <p style="font-size: 0.85em; margin-top: 10px; margin-bottom: 8px;">
+            <i class="fas fa-envelope" style="width: 18px; color: #333;"></i>
             <strong>Email:</strong><br>
             <a href="mailto:{{ site.email }}" style="word-break: break-all;">{{ site.email }}</a>
           </p>
 
-          <p style="font-size: 0.9em; margin-top: 15px;">
-            <i class="fas fa-phone" style="width: 20px; color: #333;"></i>
+          <p style="font-size: 0.85em; margin-top: 10px;">
+            <i class="fas fa-phone" style="width: 18px; color: #333;"></i>
             <strong>Phone:</strong><br>
             {{ site.phone }}
           </p>
         </div>
 
         {% if site.github.is_project_page %}
-          <p class="view" style="margin-top: 30px;"><a href="{{ site.github.repository_url }}">View the Project on GitHub</a></p>
+          <p class="view" style="margin-top: 20px;"><a href="{{ site.github.repository_url }}">View the Project on GitHub</a></p>
         {% endif %}
 
-        <footer style="position: relative; margin-top: 50px; bottom: 0;">
+        <footer style="position: relative; margin-top: 30px; bottom: 0;">
             <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         </footer>
       </header>
