@@ -1,23 +1,8 @@
 title: Bryan Stanley Effendy
 description: Machine Learning Engineer
-logo: NewIm.jpg
 theme: jekyll-theme-minimal
 
-# This text will now appear in your sidebar!
-about_me: >
-  Passionate ML Engineer focused on AI/Deep Learning. 
-  Experienced in research and education. 
-  Eager to innovate.
-  
-# Add this section below
-params:
-  github_username: "Basa-glitch"
-  email: "bryaneffendy317@gmail.com"
-  phone: "0813-1809-6578"
-
-# Optional: To make them appear as links in your bio/header
-social:
-  - title: github
-    url: https://github.com/Basa-glitch
-  - title: email
-    url: bryaneffendy317@gmail.com
+# These are the variables your new default.html is looking for
+email: "bryaneffendy317@gmail.com"
+phone: "0813-1809-6578"
+about_me: "Passionate ML Engineer focused on AI/Deep Learning. Experienced in research and education."
