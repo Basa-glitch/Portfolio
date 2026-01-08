@@ -53,7 +53,7 @@ The aim of this project is to prevent over fishing, especially in Indonesia whic
 A machine learning model is used track the position of the fishes and display a line in the webcam to start counting the fishes that had passed through the line.
 An Arduino is used to control the rotations of the motor and block the path to stop fishes from entering the area
 
-![Fish Counter](FrontView.png)
+![Fish Counter](FrontView.jpg)
 
 
 ### Two Wheel Security Bot
