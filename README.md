@@ -20,7 +20,7 @@
 - Composed a publication to the 2025 9th International Conference on Electrical, Electronics and Information Engineering (ICEEIE) - Electronics Instrumentation and Control.
 - Awarded a certificate on 3rd September 2025 for the publication.
 
-**Research & Development Intern @ Xirka RnD Center (_Feb 2024 - June 2024_)**
+**Research & Development Intern @ Xirka Dama Persada RnD Center (_Feb 2024 - June 2024_)**
 - Created clear and concise reports summarizing key research findings, facilitating effective communication across teams.
 - Developed innovative solutions for complex problems through extensive literature reviews and experimentation.
 - Created a project that prevents over fishing by using machine learning to efficiently handle the process through a camera and servo motor.
