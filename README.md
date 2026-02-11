@@ -11,7 +11,7 @@ B. S. Effendy, V. Harlius, W. Astuti, M. N. Puji, R. I. P. An-, and Ediansyah, â
 
 ## Organization Experience
 - Base AI (Artificial Intelligence) Club (2023 - 2024)
-- Kendo (2022 - 2023)
+- BINUS ASO Kendo Club(2022 - 2023)
 
 ## Work Experience
 **Machine Learning Teaching Assistant @ Binus ASO School of Engineering (_Feb 2025- June 2025_)**
