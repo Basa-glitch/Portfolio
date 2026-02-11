@@ -9,6 +9,10 @@
 ## Publication
 B. S. Effendy, V. Harlius, W. Astuti, M. N. Puji, R. I. P. An-, and Ediansyah, “Automatic Embedded System for Heart Disease Identification Based on Phonocardiogram,” 2025 9th International Conference On Electrical, Electronics And Information Engineering (ICEEIE), pp. 1–6, Sep. 2025, doi: https://doi.org/10.1109/iceeie66203.2025.11253966.
 
+## Organization Experience
+-** Base AI (Artificial Intelligence) Club (_2023 - 2024)**
+-** Kendo (_2022 - 2023)**
+
 ## Work Experience
 **Machine Learning Teaching Assistant @ Binus ASO School of Engineering (_Feb 2025- June 2025_)**
 - Evaluated and provided constructive feedback on student assignments and projects.
