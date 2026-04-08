@@ -14,7 +14,7 @@ B. S. Effendy, V. Harlius, W. Astuti, M. N. Puji, R. I. P. An-, and Ediansyah, â
 - BINUS ASO Kendo Club(2022 - 2023)
 
 ## Work Experience
-**Freelance Researcher @Binus HealthTech Advanced Laboratory (__Sep 2025 - Current_)**
+**Freelance Researcher @Binus HealthTech Advanced Laboratory (__Sep 2025 - Current__)**
 - Research Assistant on Dermatology engineering projects
 - Focused on exploring edge AI (Knowledge Distillation) to support intelligent system on pediatric teledermatology
 
