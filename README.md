@@ -14,6 +14,10 @@ B. S. Effendy, V. Harlius, W. Astuti, M. N. Puji, R. I. P. An-, and Ediansyah, â
 - BINUS ASO Kendo Club(2022 - 2023)
 
 ## Work Experience
+**Freelance Researcher @Binus HealthTech Advanced Laboratory (_Sep 2025 - Current)**
+- Research Assistant on Dermatology engineering projects
+- Focused on exploring edge AI (Knowledge Distillation) to support intelligent system on pediatric teledermatology
+
 **Machine Learning Teaching Assistant @ Binus ASO School of Engineering (_Feb 2025- June 2025_)**
 - Evaluated and provided constructive feedback on student assignments and projects.
 - Enhanced student understanding of machine learning concepts by incorporating real-world examples and case studies into lessons.
