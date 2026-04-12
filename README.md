@@ -1,4 +1,4 @@
-# Machine Learning Engineer
+# Intelligent Systems Engineer
 
 ### Education
 - Bachelor of Science
